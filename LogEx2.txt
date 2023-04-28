@@ -1,0 +1,469 @@
+Time 0
+Waiting clients: (23,2,4);(12,3,7);(38,3,3);(5,4,3);(7,4,6);(28,4,7);(32,4,4);(11,5,2);(41,6,6);(26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:
+Queue number 1:
+Queue number 2:
+Queue number 3:
+Queue number 4:
+
+Time 1
+Waiting clients: (23,2,4);(12,3,7);(38,3,3);(5,4,3);(7,4,6);(28,4,7);(32,4,4);(11,5,2);(41,6,6);(26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:
+Queue number 1:
+Queue number 2:
+Queue number 3:
+Queue number 4:
+
+Time 2
+Waiting clients: (12,3,7);(38,3,3);(5,4,3);(7,4,6);(28,4,7);(32,4,4);(11,5,2);(41,6,6);(26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(23,2,4);
+Queue number 1:
+Queue number 2:
+Queue number 3:
+Queue number 4:
+
+Time 3
+Waiting clients: (5,4,3);(7,4,6);(28,4,7);(32,4,4);(11,5,2);(41,6,6);(26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(23,2,3);
+Queue number 1:(12,3,7);
+Queue number 2:(38,3,3);
+Queue number 3:
+Queue number 4:
+
+Time 4
+Waiting clients: (11,5,2);(41,6,6);(26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(23,2,2);(28,4,7);
+Queue number 1:(12,3,6);
+Queue number 2:(38,3,2);(32,4,4);
+Queue number 3:(5,4,3);
+Queue number 4:(7,4,6);
+
+Time 5
+Waiting clients: (41,6,6);(26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(23,2,1);(28,4,7);
+Queue number 1:(12,3,5);
+Queue number 2:(38,3,1);(32,4,4);
+Queue number 3:(5,4,2);(11,5,2);
+Queue number 4:(7,4,5);
+
+Time 6
+Waiting clients: (26,7,5);(49,7,5);(9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(23,2,0);(28,4,7);
+Queue number 1:(12,3,4);
+Queue number 2:(38,3,0);(32,4,4);
+Queue number 3:(5,4,1);(11,5,2);(41,6,6);
+Queue number 4:(7,4,4);
+Service time finished for client with ID 23 who arrived at time 2 with a service time of 4
+Service time finished for client with ID 38 who arrived at time 3 with a service time of 3
+
+Time 7
+Waiting clients: (9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,6);
+Queue number 1:(12,3,3);(26,7,5);
+Queue number 2:(32,4,3);(49,7,5);
+Queue number 3:(5,4,0);(11,5,2);(41,6,6);
+Queue number 4:(7,4,3);
+Service time finished for client with ID 5 who arrived at time 4 with a service time of 3
+
+Time 8
+Waiting clients: (9,9,5);(10,9,5);(27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,5);
+Queue number 1:(12,3,2);(26,7,5);
+Queue number 2:(32,4,2);(49,7,5);
+Queue number 3:(11,5,1);(41,6,6);
+Queue number 4:(7,4,2);
+
+Time 9
+Waiting clients: (27,10,7);(24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,4);(10,9,5);
+Queue number 1:(12,3,1);(26,7,5);
+Queue number 2:(32,4,1);(49,7,5);
+Queue number 3:(11,5,0);(41,6,6);
+Queue number 4:(7,4,1);(9,9,5);
+Service time finished for client with ID 11 who arrived at time 5 with a service time of 2
+
+Time 10
+Waiting clients: (24,11,6);(1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,3);(10,9,5);
+Queue number 1:(12,3,0);(26,7,5);(27,10,7);
+Queue number 2:(32,4,0);(49,7,5);
+Queue number 3:(41,6,5);
+Queue number 4:(7,4,0);(9,9,5);
+Service time finished for client with ID 12 who arrived at time 3 with a service time of 7
+Service time finished for client with ID 32 who arrived at time 4 with a service time of 4
+Service time finished for client with ID 7 who arrived at time 4 with a service time of 6
+
+Time 11
+Waiting clients: (1,12,6);(14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,2);(10,9,5);
+Queue number 1:(26,7,4);(27,10,7);
+Queue number 2:(49,7,4);(24,11,6);
+Queue number 3:(41,6,4);
+Queue number 4:(9,9,4);
+
+Time 12
+Waiting clients: (14,13,7);(16,13,6);(18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,1);(10,9,5);
+Queue number 1:(26,7,3);(27,10,7);
+Queue number 2:(49,7,3);(24,11,6);
+Queue number 3:(41,6,3);(1,12,6);
+Queue number 4:(9,9,3);
+
+Time 13
+Waiting clients: (18,14,1);(29,14,3);(34,14,4);(8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(28,4,0);(10,9,5);(16,13,6);
+Queue number 1:(26,7,2);(27,10,7);
+Queue number 2:(49,7,2);(24,11,6);
+Queue number 3:(41,6,2);(1,12,6);
+Queue number 4:(9,9,2);(14,13,7);
+Service time finished for client with ID 28 who arrived at time 4 with a service time of 7
+
+Time 14
+Waiting clients: (8,15,4);(22,15,1);(36,15,2);(33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(10,9,4);(16,13,6);
+Queue number 1:(26,7,1);(27,10,7);(34,14,4);
+Queue number 2:(49,7,1);(24,11,6);(18,14,1);
+Queue number 3:(41,6,1);(1,12,6);(29,14,3);
+Queue number 4:(9,9,1);(14,13,7);
+
+Time 15
+Waiting clients: (33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(10,9,3);(16,13,6);
+Queue number 1:(26,7,0);(27,10,7);(34,14,4);
+Queue number 2:(49,7,0);(24,11,6);(18,14,1);(8,15,4);
+Queue number 3:(41,6,0);(1,12,6);(29,14,3);
+Queue number 4:(9,9,0);(14,13,7);(22,15,1);(36,15,2);
+Service time finished for client with ID 26 who arrived at time 7 with a service time of 5
+Service time finished for client with ID 49 who arrived at time 7 with a service time of 5
+Service time finished for client with ID 41 who arrived at time 6 with a service time of 6
+Service time finished for client with ID 9 who arrived at time 9 with a service time of 5
+
+Time 16
+Waiting clients: (33,17,3);(4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(10,9,2);(16,13,6);
+Queue number 1:(27,10,6);(34,14,4);
+Queue number 2:(24,11,5);(18,14,1);(8,15,4);
+Queue number 3:(1,12,5);(29,14,3);
+Queue number 4:(14,13,6);(22,15,1);(36,15,2);
+
+Time 17
+Waiting clients: (4,18,3);(21,18,2);(31,18,5);(35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(10,9,1);(16,13,6);(33,17,3);
+Queue number 1:(27,10,5);(34,14,4);
+Queue number 2:(24,11,4);(18,14,1);(8,15,4);
+Queue number 3:(1,12,4);(29,14,3);
+Queue number 4:(14,13,5);(22,15,1);(36,15,2);
+
+Time 18
+Waiting clients: (35,19,5);(15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(10,9,0);(16,13,6);(33,17,3);
+Queue number 1:(27,10,4);(34,14,4);(31,18,5);
+Queue number 2:(24,11,3);(18,14,1);(8,15,4);
+Queue number 3:(1,12,3);(29,14,3);(4,18,3);
+Queue number 4:(14,13,4);(22,15,1);(36,15,2);(21,18,2);
+Service time finished for client with ID 10 who arrived at time 9 with a service time of 5
+
+Time 19
+Waiting clients: (15,20,2);(37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(16,13,5);(33,17,3);
+Queue number 1:(27,10,3);(34,14,4);(31,18,5);
+Queue number 2:(24,11,2);(18,14,1);(8,15,4);(35,19,5);
+Queue number 3:(1,12,2);(29,14,3);(4,18,3);
+Queue number 4:(14,13,3);(22,15,1);(36,15,2);(21,18,2);
+
+Time 20
+Waiting clients: (37,21,3);(39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(16,13,4);(33,17,3);(15,20,2);
+Queue number 1:(27,10,2);(34,14,4);(31,18,5);
+Queue number 2:(24,11,1);(18,14,1);(8,15,4);(35,19,5);
+Queue number 3:(1,12,1);(29,14,3);(4,18,3);
+Queue number 4:(14,13,2);(22,15,1);(36,15,2);(21,18,2);
+
+Time 21
+Waiting clients: (39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(16,13,3);(33,17,3);(15,20,2);
+Queue number 1:(27,10,1);(34,14,4);(31,18,5);
+Queue number 2:(24,11,0);(18,14,1);(8,15,4);(35,19,5);
+Queue number 3:(1,12,0);(29,14,3);(4,18,3);(37,21,3);
+Queue number 4:(14,13,1);(22,15,1);(36,15,2);(21,18,2);
+Service time finished for client with ID 24 who arrived at time 11 with a service time of 6
+Service time finished for client with ID 1 who arrived at time 12 with a service time of 6
+
+Time 22
+Waiting clients: (39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(16,13,2);(33,17,3);(15,20,2);
+Queue number 1:(27,10,0);(34,14,4);(31,18,5);
+Queue number 2:(18,14,0);(8,15,4);(35,19,5);
+Queue number 3:(29,14,2);(4,18,3);(37,21,3);
+Queue number 4:(14,13,0);(22,15,1);(36,15,2);(21,18,2);
+Service time finished for client with ID 27 who arrived at time 10 with a service time of 7
+Service time finished for client with ID 18 who arrived at time 14 with a service time of 1
+Service time finished for client with ID 14 who arrived at time 13 with a service time of 7
+
+Time 23
+Waiting clients: (39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(16,13,1);(33,17,3);(15,20,2);
+Queue number 1:(34,14,3);(31,18,5);
+Queue number 2:(8,15,3);(35,19,5);
+Queue number 3:(29,14,1);(4,18,3);(37,21,3);
+Queue number 4:(22,15,0);(36,15,2);(21,18,2);
+Service time finished for client with ID 22 who arrived at time 15 with a service time of 1
+
+Time 24
+Waiting clients: (39,25,6);(42,25,6);(40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(16,13,0);(33,17,3);(15,20,2);
+Queue number 1:(34,14,2);(31,18,5);
+Queue number 2:(8,15,2);(35,19,5);
+Queue number 3:(29,14,0);(4,18,3);(37,21,3);
+Queue number 4:(36,15,1);(21,18,2);
+Service time finished for client with ID 16 who arrived at time 13 with a service time of 6
+Service time finished for client with ID 29 who arrived at time 14 with a service time of 3
+
+Time 25
+Waiting clients: (40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(33,17,2);(15,20,2);(42,25,6);
+Queue number 1:(34,14,1);(31,18,5);
+Queue number 2:(8,15,1);(35,19,5);
+Queue number 3:(4,18,2);(37,21,3);
+Queue number 4:(36,15,0);(21,18,2);(39,25,6);
+Service time finished for client with ID 36 who arrived at time 15 with a service time of 2
+
+Time 26
+Waiting clients: (40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(33,17,1);(15,20,2);(42,25,6);
+Queue number 1:(34,14,0);(31,18,5);
+Queue number 2:(8,15,0);(35,19,5);
+Queue number 3:(4,18,1);(37,21,3);
+Queue number 4:(21,18,1);(39,25,6);
+Service time finished for client with ID 34 who arrived at time 14 with a service time of 4
+Service time finished for client with ID 8 who arrived at time 15 with a service time of 4
+
+Time 27
+Waiting clients: (40,28,5);(6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(33,17,0);(15,20,2);(42,25,6);
+Queue number 1:(31,18,4);
+Queue number 2:(35,19,4);
+Queue number 3:(4,18,0);(37,21,3);
+Queue number 4:(21,18,0);(39,25,6);
+Service time finished for client with ID 33 who arrived at time 17 with a service time of 3
+Service time finished for client with ID 4 who arrived at time 18 with a service time of 3
+Service time finished for client with ID 21 who arrived at time 18 with a service time of 2
+
+Time 28
+Waiting clients: (6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(15,20,1);(42,25,6);
+Queue number 1:(31,18,3);
+Queue number 2:(35,19,3);
+Queue number 3:(37,21,2);(40,28,5);
+Queue number 4:(39,25,5);
+
+Time 29
+Waiting clients: (6,30,4);(13,30,4);(3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(15,20,0);(42,25,6);
+Queue number 1:(31,18,2);
+Queue number 2:(35,19,2);
+Queue number 3:(37,21,1);(40,28,5);
+Queue number 4:(39,25,4);
+Service time finished for client with ID 15 who arrived at time 20 with a service time of 2
+
+Time 30
+Waiting clients: (3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(42,25,5);
+Queue number 1:(31,18,1);(6,30,4);
+Queue number 2:(35,19,1);(13,30,4);
+Queue number 3:(37,21,0);(40,28,5);
+Queue number 4:(39,25,3);
+Service time finished for client with ID 37 who arrived at time 21 with a service time of 3
+
+Time 31
+Waiting clients: (3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(42,25,4);
+Queue number 1:(31,18,0);(6,30,4);
+Queue number 2:(35,19,0);(13,30,4);
+Queue number 3:(40,28,4);
+Queue number 4:(39,25,2);
+Service time finished for client with ID 31 who arrived at time 18 with a service time of 5
+Service time finished for client with ID 35 who arrived at time 19 with a service time of 5
+
+Time 32
+Waiting clients: (3,33,6);(2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(42,25,3);
+Queue number 1:(6,30,3);
+Queue number 2:(13,30,3);
+Queue number 3:(40,28,3);
+Queue number 4:(39,25,1);
+
+Time 33
+Waiting clients: (2,34,6);(46,34,6);(25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(42,25,2);
+Queue number 1:(6,30,2);
+Queue number 2:(13,30,2);
+Queue number 3:(40,28,2);
+Queue number 4:(39,25,0);(3,33,6);
+Service time finished for client with ID 39 who arrived at time 25 with a service time of 6
+
+Time 34
+Waiting clients: (25,35,4);(20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(42,25,1);(2,34,6);
+Queue number 1:(6,30,1);(46,34,6);
+Queue number 2:(13,30,1);
+Queue number 3:(40,28,1);
+Queue number 4:(3,33,5);
+
+Time 35
+Waiting clients: (20,36,7);(43,36,6);(45,36,3);(50,36,3);(47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(42,25,0);(2,34,6);
+Queue number 1:(6,30,0);(46,34,6);
+Queue number 2:(13,30,0);(25,35,4);
+Queue number 3:(40,28,0);
+Queue number 4:(3,33,4);
+Service time finished for client with ID 42 who arrived at time 25 with a service time of 6
+Service time finished for client with ID 6 who arrived at time 30 with a service time of 4
+Service time finished for client with ID 13 who arrived at time 30 with a service time of 4
+Service time finished for client with ID 40 who arrived at time 28 with a service time of 5
+
+Time 36
+Waiting clients: (47,37,6);(30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(2,34,5);(50,36,3);
+Queue number 1:(46,34,5);
+Queue number 2:(25,35,3);(43,36,6);
+Queue number 3:(20,36,7);
+Queue number 4:(3,33,3);(45,36,3);
+
+Time 37
+Waiting clients: (30,38,2);(44,38,1);(48,38,7);(17,40,3);(19,40,4);
+Queue number 0:(2,34,4);(50,36,3);
+Queue number 1:(46,34,4);(47,37,6);
+Queue number 2:(25,35,2);(43,36,6);
+Queue number 3:(20,36,6);
+Queue number 4:(3,33,2);(45,36,3);
+
+Time 38
+Waiting clients: (17,40,3);(19,40,4);
+Queue number 0:(2,34,3);(50,36,3);
+Queue number 1:(46,34,3);(47,37,6);
+Queue number 2:(25,35,1);(43,36,6);
+Queue number 3:(20,36,5);(30,38,2);
+Queue number 4:(3,33,1);(45,36,3);(44,38,1);(48,38,7);
+
+Time 39
+Waiting clients: (17,40,3);(19,40,4);
+Queue number 0:(2,34,2);(50,36,3);
+Queue number 1:(46,34,2);(47,37,6);
+Queue number 2:(25,35,0);(43,36,6);
+Queue number 3:(20,36,4);(30,38,2);
+Queue number 4:(3,33,0);(45,36,3);(44,38,1);(48,38,7);
+Service time finished for client with ID 25 who arrived at time 35 with a service time of 4
+Service time finished for client with ID 3 who arrived at time 33 with a service time of 6
+
+Time 40
+Waiting clients: 
+Queue number 0:(2,34,1);(50,36,3);(17,40,3);
+Queue number 1:(46,34,1);(47,37,6);
+Queue number 2:(43,36,5);
+Queue number 3:(20,36,3);(30,38,2);(19,40,4);
+Queue number 4:(45,36,2);(44,38,1);(48,38,7);
+
+Time 41
+Waiting clients: 
+Queue number 0:(2,34,0);(50,36,3);(17,40,3);
+Queue number 1:(46,34,0);(47,37,6);
+Queue number 2:(43,36,4);
+Queue number 3:(20,36,2);(30,38,2);(19,40,4);
+Queue number 4:(45,36,1);(44,38,1);(48,38,7);
+Service time finished for client with ID 2 who arrived at time 34 with a service time of 6
+Service time finished for client with ID 46 who arrived at time 34 with a service time of 6
+
+Time 42
+Waiting clients: 
+Queue number 0:(50,36,2);(17,40,3);
+Queue number 1:(47,37,5);
+Queue number 2:(43,36,3);
+Queue number 3:(20,36,1);(30,38,2);(19,40,4);
+Queue number 4:(45,36,0);(44,38,1);(48,38,7);
+Service time finished for client with ID 45 who arrived at time 36 with a service time of 3
+
+Time 43
+Waiting clients: 
+Queue number 0:(50,36,1);(17,40,3);
+Queue number 1:(47,37,4);
+Queue number 2:(43,36,2);
+Queue number 3:(20,36,0);(30,38,2);(19,40,4);
+Queue number 4:(44,38,0);(48,38,7);
+Service time finished for client with ID 20 who arrived at time 36 with a service time of 7
+Service time finished for client with ID 44 who arrived at time 38 with a service time of 1
+
+Time 44
+Waiting clients: 
+Queue number 0:(50,36,0);(17,40,3);
+Queue number 1:(47,37,3);
+Queue number 2:(43,36,1);
+Queue number 3:(30,38,1);(19,40,4);
+Queue number 4:(48,38,6);
+Service time finished for client with ID 50 who arrived at time 36 with a service time of 3
+
+Time 45
+Waiting clients: 
+Queue number 0:(17,40,2);
+Queue number 1:(47,37,2);
+Queue number 2:(43,36,0);
+Queue number 3:(30,38,0);(19,40,4);
+Queue number 4:(48,38,5);
+Service time finished for client with ID 43 who arrived at time 36 with a service time of 6
+Service time finished for client with ID 30 who arrived at time 38 with a service time of 2
+
+Time 46
+Waiting clients: 
+Queue number 0:(17,40,1);
+Queue number 1:(47,37,1);
+Queue number 2:
+Queue number 3:(19,40,3);
+Queue number 4:(48,38,4);
+
+Time 47
+Waiting clients: 
+Queue number 0:(17,40,0);
+Queue number 1:(47,37,0);
+Queue number 2:
+Queue number 3:(19,40,2);
+Queue number 4:(48,38,3);
+Service time finished for client with ID 17 who arrived at time 40 with a service time of 3
+Service time finished for client with ID 47 who arrived at time 37 with a service time of 6
+
+Time 48
+Waiting clients: 
+Queue number 0:
+Queue number 1:
+Queue number 2:
+Queue number 3:(19,40,1);
+Queue number 4:(48,38,2);
+
+Time 49
+Waiting clients: 
+Queue number 0:
+Queue number 1:
+Queue number 2:
+Queue number 3:(19,40,0);
+Queue number 4:(48,38,1);
+Service time finished for client with ID 19 who arrived at time 40 with a service time of 4
+
+Time 50
+Waiting clients: 
+Queue number 0:
+Queue number 1:
+Queue number 2:
+Queue number 3:
+Queue number 4:(48,38,0);
+Service time finished for client with ID 48 who arrived at time 38 with a service time of 7
+
+Time 51
+Waiting clients: 
+Queue number 0:
+Queue number 1:
+Queue number 2:
+Queue number 3:
+Queue number 4:
+
+Average waiting time: 3.62
+Average service time: 4.42
+Peak hour: 21

@@ -1,0 +1,8 @@
+Time 15
+Waiting clients: 
+Queue number 0:
+Queue number 1:
+
+Average waiting time: 3.0
+Average service time: 2.75
+Peak hour: 4
